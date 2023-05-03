@@ -1,4 +1,4 @@
-# Lnk to Live Project: https://abhinash-bhagat-dog-breed-identifier-or-classifi-dog-app-nhfdv8.streamlit.app/
+# Link to live Webapp: https://abhinash-bhagat-dog-breed-identifier-or-classifi-dog-app-nhfdv8.streamlit.app/
 
 # 🐶 End-to-End Multiclass Dog Breed Classification
 
