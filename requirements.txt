@@ -1,0 +1,7 @@
+streamlit
+pandas
+tensorflow
+tensorflow_hub
+numpy
+matplotlib
+streamlit-option-menu
