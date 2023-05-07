@@ -44,7 +44,7 @@ def load_model(model_path):
     return model_h5
 
 # Loading pre-trained dog breed classification model here
-model = load_model('dog_breed_model.h5')
+model = load_model('Models/dog_breed_model.h5')
 
 # ******Preprocessing Image*********
 # Defining image size
@@ -87,7 +87,7 @@ def create_data_batches(X, y=None, batch_size=BATCH_SIZE, valid_data=False, test
         pass
 
 # Decoding Prediction********
-labels_csv = pd.read_csv('labels.csv')
+labels_csv = pd.read_csv('Datasets/labels.csv')
 labels = labels_csv.breed
 labels = np.array(labels)
 unique_breeds = np.unique(labels)
